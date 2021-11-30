@@ -11,7 +11,7 @@ Here in my github you can find projects i have created as a part of my studies o
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Contact me
-
+<a href=”https://www.linkedin.com/in/touko-pakarinen-3b13b0205/"><img align=”left” src=”https://raw.githubusercontent.com/ToukoJouko/ToukoJouko/main/icon/icons8-linkedin-48.png" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
 
