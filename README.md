@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! :wave:
+
+My name is Touko Pakarinen. I am a 2nd year CS student in the University of Eastern Finland.
+Currently my main focus is in learning fullstack-web development.
+
+Here in my github you can find projects i have created in school or in my freetime.
+
+
+
 
 <!--
 **ToukoJouko/ToukoJouko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
