@@ -1,3 +1,5 @@
+![](pearcidergif.gif)
+
 ## Hello!
 
 My name is Touko Pakarinen. I am a 2nd year CS student in the University of Eastern Finland.
