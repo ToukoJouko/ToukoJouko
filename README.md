@@ -1,4 +1,3 @@
-![](pearcidergif.gif)
 
 ## Hello!
 
