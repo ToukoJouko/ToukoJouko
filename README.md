@@ -13,11 +13,12 @@ Here in my github you can find projects i have created as a part of my studies o
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Contact me
-[![image](https://user-images.githubusercontent.com/72581705/144093004-9ed6b658-c668-4673-91ab-37374d838d5d.png)][1] [![icons8-telegram-app-48 (1)](https://user-images.githubusercontent.com/72581705/144093652-4659db15-2278-47d1-817d-d68449f62296.png)][2]
+[![image](https://user-images.githubusercontent.com/72581705/144093004-9ed6b658-c668-4673-91ab-37374d838d5d.png)][1] [![icons8-telegram-app-48 (1)](https://user-images.githubusercontent.com/72581705/144093652-4659db15-2278-47d1-817d-d68449f62296.png)][2] [![icons8-gmail-48](https://user-images.githubusercontent.com/72581705/149047734-f01f9f63-62da-41cf-833e-d18a6ac5a823.png)][3]
 
 
 [1]: https://www.linkedin.com/in/touko-pakarinen-3b13b0205/
 [2]: https://t.me/toukojjouko
+[3]: mailto:toukop97@gmail.com
 
 
 <!--
