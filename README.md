@@ -2,7 +2,7 @@
 
 ## Hello!
 
-My name is Touko Pakarinen. I am a 2nd year CS student in the University of Eastern Finland.
+My name is Touko Pakarinen. I am a 3rd year CS student in the University of Eastern Finland.
 Currently my main focus is in learning fullstack-web development, and improving my skills in the languages/technologies i have listed in the _skills_ section.
 
 Here in my github you can find projects i have created as a part of my studies or in my freetime.
