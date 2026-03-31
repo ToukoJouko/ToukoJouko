@@ -2,15 +2,8 @@
 
 ## Hello!
 
-My name is Touko Pakarinen. I am a CS student in the University of Eastern Finland.
-Currently my main focus is in learning fullstack-web development.
-
-Here in my github you can find projects i have created as a part of my studies or in my freetime.
-
-### Skills
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=white)
+My name is Touko Pakarinen. I am a CS student and a guy who likes IT related things.
+Here in my github you can find the very well maintained documentation and beatifully written source code of my complex personal/school projects.
 
 
 ### Contact me
@@ -18,8 +11,7 @@ Here in my github you can find projects i have created as a part of my studies o
 
 
 [1]: https://www.linkedin.com/in/touko-pakarinen-3b13b0205/
-[2]: https://t.me/toukojjouko
-[3]: mailto:toukop97@gmail.com
+[2]: mailto:toukop97@gmail.com
 
 
 <!--
