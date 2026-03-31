@@ -3,7 +3,7 @@
 ## Hello!
 
 My name is Touko Pakarinen. I am a CS student and a guy who likes IT related things.
-Here in my github you can find the very well maintained documentation and beatifully written source code of my complex personal/school projects.
+Here in my github you can find the very well maintained documentation and beautifully written source code of my personal/school projects.
 
 
 ### Contact me
